@@ -47,3 +47,6 @@ pause
 ## Notice
 1、乙方Android测试工具之一  
 2、libhello.so的路径在inject中写死了，```/data/local/tmp/libhello.so```，可以改但没必要.  
+## 参考  
+https://blog.csdn.net/jinzhuojun/article/details/9900105  
+https://bbs.pediy.com/thread-141355.htm
